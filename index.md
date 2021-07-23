@@ -39,33 +39,33 @@
 
 A simple 3d puzzle, maze game designed using free art assets to create a test level in 3 days.
 
-![](images\Haunted House Maze\Screenshot (138).png)
+![](images\Haunted House Maze\Screenshot (138).jpg)
 
-![](images\Haunted House Maze\Screenshot (139).png)
+![](images\Haunted House Maze\Screenshot (139).jpg)
 
-![](images\Haunted House Maze\Screenshot (141).png)
+![](images\Haunted House Maze\Screenshot (141).jpg)
 
-![](images\Haunted House Maze\Screenshot (142).png)
+![](images\Haunted House Maze\Screenshot (142).jpg)
 
-![](images\Haunted House Maze\Screenshot (143).png)
+![](images\Haunted House Maze\Screenshot (143).jpg)
 
-![](images\Haunted House Maze\Screenshot (153).png)
+![](images\Haunted House Maze\Screenshot (153).jpg)
 
-![](images\Haunted House Maze\Screenshot (158).png)
+![](images\Haunted House Maze\Screenshot (158).jpg)
 
-![](images\Haunted House Maze\Screenshot (159).png)
+![](images\Haunted House Maze\Screenshot (159).jpg)
 
-![](images\Haunted House Maze\Screenshot (163).png)
+![](images\Haunted House Maze\Screenshot (163).jpg)
 
-![](images\Haunted House Maze\Screenshot (164).png)
+![](images\Haunted House Maze\Screenshot (164).jpg)
 
-![](images\Haunted House Maze\Screenshot (165).png)
+![](images\Haunted House Maze\Screenshot (165).jpg)
 
-![](images\Haunted House Maze\Screenshot (168).png)
+![](images\Haunted House Maze\Screenshot (168).jpg)
 
-![](images\Haunted House Maze\Screenshot (169).png)
+![](images\Haunted House Maze\Screenshot (169).jpg)
 
-![](images\Haunted House Maze\Screenshot (170).png)
+![](images\Haunted House Maze\Screenshot (170).jpg)
 
 
 
