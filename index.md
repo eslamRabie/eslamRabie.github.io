@@ -7,6 +7,10 @@
 ### Down
 <p style="font-size:12px"> Down is a 2D, endless runner, underdevelopment game inspired by the movie Soul. In this game the player is ghost trying to return to its earthly body after being in a comma, evading reapers while collecting lost souls to help him reach is destiantion.  </p>
 
+<iframe frameborder="0" src="https://itch.io/embed/1143077" width="552" height="167"><a href="https://cloudemgames.itch.io/down">Down by CloudGames</a></iframe>
+
+
+
 ![Development](images\Down\Screenshot (172).png)
 
 ![Development](images\Down\Screenshot (173).png)
@@ -80,6 +84,12 @@ A simple 3d puzzle, maze game designed using free art assets to create a test le
 
 A 3D top-down, competitive online multiplayer game created using UE4. The feature 3 players competing for delivering most goods to their stores while preventing others.
 
+<iframe frameborder="0" src="https://itch.io/embed/1109883?border_width=5" width="560" height="175"><a href="https://cloudemgames.itch.io/delivery-rush">Delivery Rush by CloudGames</a></iframe>
+
+
+
+
+
 ![](images\DeliveryRush\Screenshot (205).png)
 
 ![Screenshot (206)](images\DeliveryRush\Screenshot (206).png)
@@ -122,7 +132,8 @@ A 3D top-down, competitive online multiplayer game created using UE4. The featur
 
 ---
 
+<p style="font-size:11px"> © 2021 CloudGames. All Rights Reserved.  </p>
 
-<p style="font-size:11px"> @ All Rights Reserved </p>
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
