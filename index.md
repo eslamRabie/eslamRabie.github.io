@@ -82,7 +82,7 @@ A simple 3d puzzle, maze game designed using free art assets to create a test le
 
 ### Delivery Rush
 
-A 3D top-down, competitive online multiplayer game created using UE4. The feature 3 players competing for delivering most goods to their stores while preventing others.
+A 3D top-down, competitive online multiplayer game created using UE4. The feature 3 players competing for delivering most goods to their stores while preventing others, you take a look at some the code in this [GitHub Repository](https://github.com/eslamRabie/DRCodeSnippet).
 
 <iframe frameborder="0" src="https://itch.io/embed/1109883?border_width=5" width="560" height="175"><a href="https://cloudemgames.itch.io/delivery-rush">Delivery Rush by CloudGames</a></iframe>
 
