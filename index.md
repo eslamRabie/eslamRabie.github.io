@@ -9,6 +9,7 @@
 
 <iframe frameborder="0" src="https://itch.io/embed/1143077" width="552" height="167"><a href="https://cloudemgames.itch.io/down">Down by CloudGames</a></iframe>
 
+[![Video](images\Down\YT.png)](https://youtu.be/sbNc_sGokJQ)
 
 
 ![Development](images\Down\Screenshot (172).png)
@@ -16,8 +17,6 @@
 ![Development](images\Down\Screenshot (173).png)
 
 ![logo](images\Down\Screenshot (118).png)
-
-![Splash Screen](images\Down\Screenshot (119).png)
 
 ![Game Play](images\Down\Screenshot (122).png)
 
@@ -42,6 +41,12 @@
 ### Haunted  House Maze
 
 A simple 3d puzzle, maze game designed using free art assets to create a test level in 3 days.
+
+
+
+[![Video](images\Haunted House Maze\YTNew.png)](https://youtu.be/gDvd5tn38yc)
+
+
 
 ![](images\Haunted House Maze\Screenshot (138).png)
 
@@ -87,6 +92,8 @@ A 3D top-down, competitive online multiplayer game created using UE4. The featur
 <iframe frameborder="0" src="https://itch.io/embed/1109883?border_width=5" width="560" height="175"><a href="https://cloudemgames.itch.io/delivery-rush">Delivery Rush by CloudGames</a></iframe>
 
 
+
+[![Video](images\DeliveryRush\YT.png)](https://www.youtube.com/watch?v=u2oyWRKMAIs)
 
 
 
