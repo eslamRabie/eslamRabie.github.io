@@ -145,13 +145,14 @@ A 3D top-down, competitive online multiplayer game created using UE4. The featur
 
 A small part-time Project in which I was responsible for implementing the character controller and some parts of the VirtualLab interactivity.
 
-![Project Website](https://www.savir.net/Home/VirtualLab)
-![GitHub Repository](https://github.com/samgr55/SAVIR_LAB)
+[Project Website](https://www.savir.net/Home/VirtualLab)
+
+[GitHub Repository](https://github.com/samgr55/SAVIR_LAB)
 
 
-![Savir Virtual Labs](https://www.youtube.com/watch?v=DlnzfLR3IPg)
+[![Savir Virtual Labs](https://img.youtube.com/vi/DlnzfLR3IPg/0.jpg)](https://www.youtube.com/watch?v=DlnzfLR3IPg)
 
-### 
+
 
 <p style="font-size:11px"> © 2021 CloudGames. All Rights Reserved.  </p>
 
